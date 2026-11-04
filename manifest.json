@@ -37,8 +37,8 @@
     },
     {
       "path": "readme.md",
-      "bytes": 4120,
-      "sha256": "b87cded930aa4068fc15a806a284b4235c400e59a66186c97db804ec9d85d60f"
+      "bytes": 4110,
+      "sha256": "a434ea8ad18071a2023c42ac9297614d1d6ae45680fa66aabf418c93b378dbd5"
     },
     {
       "path": "sim/generate_quality_vectors.py",
@@ -72,8 +72,8 @@
     },
     {
       "path": "skill/readme.md",
-      "bytes": 671,
-      "sha256": "604b0b18459e8bd94d8dc7f42a760d9d5bc16237bf4a7a723e4b76e957e6188f"
+      "bytes": 634,
+      "sha256": "a10861dc97fa3f8509d838fcf3fcb3223fd42dce44253b219560f9c8ac95defe"
     },
     {
       "path": "src/hardware/constraints/pins.xdc",
