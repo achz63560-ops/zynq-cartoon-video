@@ -1,0 +1,22 @@
+{
+  "rtl/serializer_10_to_1.v": {
+    "sha256": "64de2c807e78fa072b0e4ef09b4c0a7654c96792c7c709d3cbd1dad7905b182a",
+    "origin": "与正点原子参考串行器的 HDL token 相似度 98.6%，参考原件保留厂商版权声明。"
+  },
+  "rtl/dvi_encoder.v": {
+    "sha256": "a29c701a115e0a3136130bed2fdb372913638e87b9ccbda4fc10180f3fee07f4",
+    "origin": "与 Xilinx 参考编码器接口及实现有明显差异，开发沿革仍涉及参考链，发布权利未确认。"
+  },
+  "rtl/dvi_tx_serial.v": {
+    "sha256": "5a6330f559b3c7e5a2ea8172deac2dbc75c6f3db1234c7e0b0bcc4845e696037",
+    "origin": "依赖参考串行器的 HDMI 包装层，沿用参考链接口，单独来源及再分发范围未确认。"
+  },
+  "reference/ps_board_config.tcl": {
+    "sha256": "09ea92c9af50d772a6e01bff8f1d025d8e275e09d79b494a1c3c91a150d098ff",
+    "origin": "由厂商参考 BD 的 PS/DDR 参数提取。"
+  },
+  "reference/sequence.mem": {
+    "sha256": "b1c499698f154000a24a90babb2c2da3bca29e4bab1bcadfa00721fea0adbb59",
+    "origin": "由厂商 OV5640 初始化实现改编的寄存器序列。"
+  }
+}

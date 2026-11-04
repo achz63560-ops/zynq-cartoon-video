@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "gray_and_line_rgb_equal": true,
+    "mode0_bit_exact": true,
+    "mode4_bit_exact": true,
+    "mosaic_blocks_checked": 4800,
+    "models": [
+      "legacy",
+      "tuned"
+    ],
+    "source_small_patterns": 8,
+    "styles": 2,
+    "modes": 6
+  },
+  "files": [
+    {
+      "name": "small_0_in.hex",
+      "sha256": "33626333b342d5453f8bb5c3d9e27129eaef800dce0adf467d3d2552bda1d6cd"
+    },
+    {
+      "name": "small_0_out.hex",
+      "sha256": "67e5b17a01e6e621131eecc1f8a50f1074483f4c9b0bdda5f41b1b4ae9a78d79"
+    },
+    {
+      "name": "small_1_in.hex",
+      "sha256": "33626333b342d5453f8bb5c3d9e27129eaef800dce0adf467d3d2552bda1d6cd"
+    },
+    {
+      "name": "small_1_out.hex",
+      "sha256": "9640a45aa9c3751b23be4fb4eaf56bc2d1334a6740708304a173602c6ee792b7"
+    },
+    {
+      "name": "vga_in.hex",
+      "sha256": "0db02cbeea90b34786c12981b0a131ccfff5045ae0788539ea7ad8072a3e109b"
+    },
+    {
+      "name": "vga_out.hex",
+      "sha256": "e6277449795454488c8e4207b6c09d24a6e23cc0272141484f6f354d72ab75c4"
+    }
+  ]
+}

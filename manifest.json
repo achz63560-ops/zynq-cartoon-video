@@ -1,0 +1,269 @@
+{
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 61,
+      "sha256": "22106984a6c1274ead5c283789ca11d75b303658949aaa627698747e7b2d6160"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 729,
+      "sha256": "beab3af8a77e632d1bcad13721319b0f4e647207ab48f6cd55430286d539d7fd"
+    },
+    {
+      "path": "data/quality_vectors/manifest.json",
+      "bytes": 1092,
+      "sha256": "bd714ceffb03f189f8275144fc3e854aa2f8c96126d949e72938b97b5b683b66"
+    },
+    {
+      "path": "data/reference_input.png",
+      "bytes": 9457,
+      "sha256": "654692b053588b31d76437619e3934c11be7bb288ef579be11b8db0bebd99eae"
+    },
+    {
+      "path": "docs/local_inputs.json",
+      "bytes": 1103,
+      "sha256": "2dd9bac70309a26b0890539205bb06af99037bef84e1b0628cfa5fba6c4e7b1f"
+    },
+    {
+      "path": "docs/third_party.md",
+      "bytes": 1283,
+      "sha256": "7b85641bce213cbaeaa389c5ff926fae7ad8272ad3cc1b23343555ad3cfb1e1e"
+    },
+    {
+      "path": "license",
+      "bytes": 1075,
+      "sha256": "7a3e8e2460685e88f59e9309416a440707d53d2696b13314f2f2ac34012b133c"
+    },
+    {
+      "path": "readme.md",
+      "bytes": 4120,
+      "sha256": "b87cded930aa4068fc15a806a284b4235c400e59a66186c97db804ec9d85d60f"
+    },
+    {
+      "path": "sim/generate_quality_vectors.py",
+      "bytes": 2267,
+      "sha256": "101139d787115f68d9887bce26744c86b65c61a8883c90a3b17b06a328629678"
+    },
+    {
+      "path": "sim/quality_reference.py",
+      "bytes": 1250,
+      "sha256": "1afbad454ecfff4087a3dbf34be39d46b6cf45536388b0f1b5b1f31a8c20614a"
+    },
+    {
+      "path": "sim/tb_quality.sv",
+      "bytes": 2593,
+      "sha256": "1ed4c7da00cd3264138f4b15fa103d62f8c2ef72a9d9d340d8752957bc2bb306"
+    },
+    {
+      "path": "sim/tb_standalone_control.sv",
+      "bytes": 2397,
+      "sha256": "5a56ab1bae8364c9b802a106284913bbafd9d0bd7a91fdd94471a5c98f933a99"
+    },
+    {
+      "path": "sim/test_demo_fsm.c",
+      "bytes": 2120,
+      "sha256": "66eb4bea3eb0686fdf4c3c60db88da83222195d33d19b2cd12fcb4cdbf7947be"
+    },
+    {
+      "path": "skill/interface_gates.md",
+      "bytes": 1092,
+      "sha256": "1198cb9d92f27cc0487ef351d325b378a0e022bc0722e1ad59fafaf9500e388a"
+    },
+    {
+      "path": "skill/readme.md",
+      "bytes": 671,
+      "sha256": "604b0b18459e8bd94d8dc7f42a760d9d5bc16237bf4a7a723e4b76e957e6188f"
+    },
+    {
+      "path": "src/hardware/constraints/pins.xdc",
+      "bytes": 2665,
+      "sha256": "e079ffad0fa11d666b3e662e450737692f3d93e7b704c8f7a86f962669d7fa82"
+    },
+    {
+      "path": "src/hardware/constraints/timing.xdc",
+      "bytes": 688,
+      "sha256": "239f81cdc16e02010e20321ceef664562e0cd821c9145ca9c7f0d510918cacfa"
+    },
+    {
+      "path": "src/hardware/rtl/axil_command.sv",
+      "bytes": 1469,
+      "sha256": "b1443d44921b99c8e8e513e4f5d3905a316f7dce148d2b201efdf28e886a44dc"
+    },
+    {
+      "path": "src/hardware/rtl/axis_frame_gate.sv",
+      "bytes": 2018,
+      "sha256": "e854576a09a3c44b9e8895ed11a8d82756d26763013772b5b42c7460bb5c7570"
+    },
+    {
+      "path": "src/hardware/rtl/camera_dvp_core.sv",
+      "bytes": 8226,
+      "sha256": "54b5ce990a832039722a88931927778afbe1f77012438153a9ff78af509aacc8"
+    },
+    {
+      "path": "src/hardware/rtl/camera_hdmi_top.sv",
+      "bytes": 7503,
+      "sha256": "bb8c29f4a3c5259625070674c02a78974d72c094c47df4ae67ed8e687ce547ae"
+    },
+    {
+      "path": "src/hardware/rtl/capture_stats.sv",
+      "bytes": 3413,
+      "sha256": "46a684c3b130544bca406aeb2d735da7069a33423a7f3a755ffee6c9aef69002"
+    },
+    {
+      "path": "src/hardware/rtl/comic_axis.sv",
+      "bytes": 2565,
+      "sha256": "2f5d886ae452e7367a0106ce38f197706f02a36713beaba0d644799f20d1ff2d"
+    },
+    {
+      "path": "src/hardware/rtl/comic_core.v",
+      "bytes": 4423,
+      "sha256": "b3a21b9692a1b964b5a89b5f153d28cb0564e5a14e1e701f2254a6bfb8f0a3d3"
+    },
+    {
+      "path": "src/hardware/rtl/debounced_mode.sv",
+      "bytes": 1056,
+      "sha256": "80a8b987314dd36858c3069f8c054541f1235793d5d394946a03f35c6f15d557"
+    },
+    {
+      "path": "src/hardware/rtl/dvp_axis_bridge.v",
+      "bytes": 2087,
+      "sha256": "7777216f3fd4f590ab7cfe2db5bc8754ebce7122f42b0b6fcd926c1a11e9c248"
+    },
+    {
+      "path": "src/hardware/rtl/dvp_capture.v",
+      "bytes": 4277,
+      "sha256": "233ffa1d11385208c52e1f61a5e2682ff89dc87d83724f063cf13492913d7b3b"
+    },
+    {
+      "path": "src/hardware/rtl/epoch_snapshot.sv",
+      "bytes": 3022,
+      "sha256": "06943b3cbf5ba05181e32262ee3c951240ebde0c10fa79cc228c32a7f0ce60c2"
+    },
+    {
+      "path": "src/hardware/rtl/frame_transaction_mgr.sv",
+      "bytes": 4303,
+      "sha256": "f4ea89184dde7805a99abfa7c6ba0a27448d6697676c0afeeb01aaad09f38d2a"
+    },
+    {
+      "path": "src/hardware/rtl/hdmi_axis_scan.sv",
+      "bytes": 1971,
+      "sha256": "570c80127c8153a05483b945ea13e59d67305730d15da567b5c0ce7c0aacdfa9"
+    },
+    {
+      "path": "src/hardware/rtl/hdmi_clocks.sv",
+      "bytes": 913,
+      "sha256": "f5bff6310321296ff4ce23fabda0dd72a53d8dd594e2e9a71fa1b203b8c93fe4"
+    },
+    {
+      "path": "src/hardware/rtl/pattern_axis.sv",
+      "bytes": 826,
+      "sha256": "9e5d0cc2cbe18bc89c84b3e97c9e85c78ebc440b1c323ae27b1e76021e0d1741"
+    },
+    {
+      "path": "src/hardware/rtl/sccb_guard.sv",
+      "bytes": 4304,
+      "sha256": "c678bfc5c09b40da94027dd97849cc7cb75afc5b99592982532157ee869313f6"
+    },
+    {
+      "path": "src/hardware/rtl/sccb_master.v",
+      "bytes": 6463,
+      "sha256": "3e33feefd73bfe77c26a116694006ce8fe9a76a7119987939154585c24d5a5c9"
+    },
+    {
+      "path": "src/hardware/rtl/standalone_control.sv",
+      "bytes": 2333,
+      "sha256": "a2a72292e793f20d10bb5275c01c235f9fee72a7a4d9958eadb5022762e2b06d"
+    },
+    {
+      "path": "src/hardware/rtl/vdma_scheduler.sv",
+      "bytes": 9123,
+      "sha256": "b1e25ebbb5e67908042c07f718937e21e66433be24f56d57be5caca477d9c58f"
+    },
+    {
+      "path": "src/hardware/rtl/video_dma_pipeline.sv",
+      "bytes": 5200,
+      "sha256": "4f0f03c7ada3e86762e52753b76740583b3a201795fbb44e027654e0cf93f8e0"
+    },
+    {
+      "path": "src/hardware/rtl/video_init_sequencer.sv",
+      "bytes": 2850,
+      "sha256": "5181bdde503deb3c59d24681cb6c5852b7fe8ec7d38974dff1ae9f1c3a484979"
+    },
+    {
+      "path": "src/hardware/rtl/video_stream_cdc.v",
+      "bytes": 5676,
+      "sha256": "ad997412e87ba9ec98fe4010bdac5e976a9701f536fe2640a957fc528c3e4493"
+    },
+    {
+      "path": "src/hardware/rtl/win3x3.v",
+      "bytes": 1931,
+      "sha256": "a734733fdcdc9919f93da3d1637e0fe319b10223805b1bcf3f925a9cd81e2513"
+    },
+    {
+      "path": "src/hardware/scripts/export.tcl",
+      "bytes": 4113,
+      "sha256": "7c6283c5e88159f819ee48fc7dae3dd2688ce8fc88026f645859b2d485031e20"
+    },
+    {
+      "path": "src/hardware/scripts/implement.tcl",
+      "bytes": 5211,
+      "sha256": "1fd2e59a70da6b44f453b856773f43356af040267a04307e801014d0aa9f2fb7"
+    },
+    {
+      "path": "src/hardware/scripts/prepare.tcl",
+      "bytes": 8216,
+      "sha256": "4587d472e91bef44846eaa0f1ee1908ab7d87431a45ae9910b083a359e88f7f0"
+    },
+    {
+      "path": "src/hardware/scripts/review_fifo_cdc.tcl",
+      "bytes": 2472,
+      "sha256": "4da322eb1a7bf8aabdfe24a1a05c53b56472b4830a501fb346a30b70c99c16a8"
+    },
+    {
+      "path": "src/software/app/demo_fsm.c",
+      "bytes": 1919,
+      "sha256": "56fb666d5a51450ffcaaaaf26f4e7e5940dcc09f0935e7f5480b4db756dbb86c"
+    },
+    {
+      "path": "src/software/app/demo_fsm.h",
+      "bytes": 592,
+      "sha256": "13b3edd56d864d44e46c515313c7d9f01b5c6f9a0e2cdd2da28fe2eb214fa0c5"
+    },
+    {
+      "path": "src/software/app/link.ld",
+      "bytes": 506,
+      "sha256": "4f47c92a924eb0d88c86212b3a5baa9cd16ac3ddb6874130b731b5439649b144"
+    },
+    {
+      "path": "src/software/app/standalone_main.c",
+      "bytes": 4351,
+      "sha256": "b85150a838788162f35428f4144e5bdb2a8398dd539381bdcc9bca4c4957d7e8"
+    },
+    {
+      "path": "src/software/app/start.s",
+      "bytes": 279,
+      "sha256": "9df4943374f75b500b264add48d18e383750496a63ce68848af0afc808299188"
+    },
+    {
+      "path": "tools/boot.bif",
+      "bytes": 76,
+      "sha256": "dbb9703a9e1f99abd11250954b8173bc2af9a30062df61879c713fc55a34bbcf"
+    },
+    {
+      "path": "tools/hsi_fsbl.tcl",
+      "bytes": 301,
+      "sha256": "efc470323e57815642b53d3ab10e35ab9709e06977b21dd6c9f1e92c9adc274b"
+    },
+    {
+      "path": "tools/reproduce.py",
+      "bytes": 5653,
+      "sha256": "660cc926e9e236d99e29888c8f6c76d4727278c0826e267c9d37246646c0747e"
+    },
+    {
+      "path": "tools/verify.py",
+      "bytes": 587,
+      "sha256": "1f9df01fe9eaada4d084ed2cf6543d7085d3d15751d3a86f1feb65acb9ba203f"
+    }
+  ]
+}
